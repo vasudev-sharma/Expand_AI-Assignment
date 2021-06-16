@@ -9,7 +9,7 @@ For more details, read the problem statement available [here](https://github.com
 Dataset is in this Gdrive location:-> https://drive.google.com/file/d/1PVJcXmKz-QPAvPV-rRFYnjh7BsFnAeq8/view?usp=sharing
 
 ## Usage:
-The Colab notebooks for the Assignment-1 and Assignment-2 are self-explantory. 
+The Colab notebooks for the [Assignment-1](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_1.ipynb) and [Assignment-2](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_2.ipynb) are self-explantory. 
 
 **NOTE** It is recommended to run the notebook on a GPU instance. If not available, kindly use the free Google Colab GPU instance
 
