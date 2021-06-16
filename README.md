@@ -44,3 +44,8 @@ We ❤️ contributions. Feel free to send us a PR or raise an issue.
 4. Add and commit your changes (`git commit -am 'message'`).
 5. Push the branch (`git push origin your-feature`).
 6. Create a new Pull Request.
+
+
+## TODO
+- [ ] Play with the hyperparameters of the MixMatch algorithm
+- [ ] Experiment with differnt baseline models. Eg.. DenseNets, EfficientNets, etc...
