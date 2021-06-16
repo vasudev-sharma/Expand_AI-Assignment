@@ -33,7 +33,10 @@ To tackle limited labels for Chest XRay images, a semi-supervised learning appra
 
 The [Assignment-2](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_2.ipynb) solution has been inspired from this https://github.com/YU1ut/MixMatch-pytorch repository. 
 
-Results to be added.......
+| Base Model | Accuracy | Macro_F1_Score | Micro_F1_score | Link                                                                        |
+|------------|----------|----------------|----------------|-----------------------------------------------------------------------------|
+| ResNet-50  | 96.90%   | 0.3452         | 0.9609         | https://wandb.ai/vs74/Expand-ai-problem-2/runs/3bistr67?workspace=user-vs74 |
+
 
 ## Contributing
 We ❤️ contributions. Feel free to send us a PR or raise an issue.
