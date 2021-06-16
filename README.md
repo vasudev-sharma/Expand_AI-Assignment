@@ -9,6 +9,8 @@ Dataset is in this Gdrive location:-> https://drive.google.com/file/d/1PVJcXmKz-
 ## Usage:
 The Colab notebooks for the Assignment-1 and Assignment-2 are self-explantory. 
 
+**NOTE** It is recommended to run the notebook on a GPU instance. If not available, kindly use the free Google Colab GPU instance
+
 ## RESULTS: 
 ### Assignment 1
 | Model_name      | Macro_f1_score | Accuracy    | Micro_F1_score | Model Logs                                                                  |
