@@ -14,7 +14,8 @@ The Colab notebooks for the Assignment-1 and Assignment-2 are self-explantory.
 **NOTE** It is recommended to run the notebook on a GPU instance. If not available, kindly use the free Google Colab GPU instance
 
 ## RESULTS: 
-### Assignment 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_1.ipynb)
+### Assignment 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_1.ipynb) [![](https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg)](https://wandb.ai/vs74/Expand-ai-problem-1?workspace=user-vs74)
+
 | Model_name      | Macro_f1_score | Accuracy    | Micro_F1_score | Model Logs                                                                  |
 |-----------------|----------------|-------------|----------------|-----------------------------------------------------------------------------|
 | densenet121     | 0.64502938     | 0.989583373 | 0.98958333     | https://wandb.ai/vs74/Expand-ai-problem-1/runs/1f2z5217?workspace=user-vs74 |
@@ -26,7 +27,8 @@ The Colab notebooks for the Assignment-1 and Assignment-2 are self-explantory.
 
 ---
 
-### Assignment 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_2.ipynb)
+### Assignment 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_2.ipynb) [![](https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg)](https://wandb.ai/vs74/Expand-ai-problem-2?workspace=user-vs74)
+
 To tackle limited labels for Chest XRay images, a semi-supervised learning apprach known as [MixMatch](https://arxiv.org/abs/1905.02249) approach is adopted.<br>
 
 The [Assignment-2](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_2.ipynb) solution has been inspired from this https://github.com/YU1ut/MixMatch-pytorch repository. 
