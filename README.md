@@ -23,6 +23,9 @@ The Colab notebooks for the Assignment-1 and Assignment-2 are self-explantory.
 
 
 ### Assignment 2
+To tackle limited labels for Chest XRay images, a semi-supervised learning apprach known as [MixMatch](https://arxiv.org/abs/1905.02249) approach is adopted.<br>
+
+The [Assignment-2](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_2.ipynb) solution has been inspired from this https://github.com/YU1ut/MixMatch-pytorch repository. 
 
 Results to be added.......
 
