@@ -14,7 +14,7 @@ The Colab notebooks for the [Assignment-1](https://github.com/vasudev-sharma/Exp
 **NOTE** It is recommended to run the notebook on a GPU instance. If not available, kindly use the free Google Colab GPU instance
 
 ## RESULTS: 
-### Assignment 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_1.ipynb) [![](https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg)](https://wandb.ai/vs74/Expand-ai-problem-1?workspace=user-vs74)
+### Assignment 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_1.ipynb) [![](https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg)](https://wandb.ai/vs74/Expand-ai-problem-1?workspace=user-vs74) <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 
 | Model_name      | Macro_f1_score | Accuracy    | Micro_F1_score | Model Logs                                                                  |
 |-----------------|----------------|-------------|----------------|-----------------------------------------------------------------------------|
@@ -27,7 +27,7 @@ The Colab notebooks for the [Assignment-1](https://github.com/vasudev-sharma/Exp
 
 ---
 
-### Assignment 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_2.ipynb) [![](https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg)](https://wandb.ai/vs74/Expand-ai-problem-2?workspace=user-vs74)
+### Assignment 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_2.ipynb) [![](https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg)](https://wandb.ai/vs74/Expand-ai-problem-2?workspace=user-vs74) <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 
 To tackle limited labels for Chest XRay images, a semi-supervised learning apprach known as [MixMatch](https://arxiv.org/abs/1905.02249) approach is adopted.<br>
 
