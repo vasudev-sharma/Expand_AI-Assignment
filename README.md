@@ -24,7 +24,7 @@ The Colab notebooks for the Assignment-1 and Assignment-2 are self-explantory.
 | resnet101       | 0.57482045     | 0.963541687 | 0.96354167     | https://wandb.ai/vs74/Expand-ai-problem-1/runs/2w044b3y?workspace=user-vs74 |
 | densenet169     | 0.59401157     | 0.984375    | 0.984375       | https://wandb.ai/vs74/Expand-ai-problem-1/runs/1f136ly7?workspace=user-vs74 |
 
-
+---
 
 ### Assignment 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_2.ipynb)
 To tackle limited labels for Chest XRay images, a semi-supervised learning apprach known as [MixMatch](https://arxiv.org/abs/1905.02249) approach is adopted.<br>
