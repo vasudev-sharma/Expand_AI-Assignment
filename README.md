@@ -19,3 +19,19 @@ The Colab notebooks for the Assignment-1 and Assignment-2 are self-explantory.
 | efficientnet-b0 | 0.60034412     | 0.989583373 | 0.98958333     | https://wandb.ai/vs74/Expand-ai-problem-1/runs/2urz30gh?workspace=user-vs74 |
 | resnet101       | 0.57482045     | 0.963541687 | 0.96354167     | https://wandb.ai/vs74/Expand-ai-problem-1/runs/2w044b3y?workspace=user-vs74 |
 | densenet169     | 0.59401157     | 0.984375    | 0.984375       | https://wandb.ai/vs74/Expand-ai-problem-1/runs/1f136ly7?workspace=user-vs74 |
+
+
+
+### Assignment 2
+
+Results to be added.......
+
+## Contributing
+We ❤️ contributions. Feel free to send us a PR or raise an issue.
+
+1. Create an issue if there is one.
+2. Fork the repo.
+3. Create your feature branch (`git checkout -b your-feature`).
+4. Add and commit your changes (`git commit -am 'message'`).
+5. Push the branch (`git push origin your-feature`).
+6. Create a new Pull Request.
