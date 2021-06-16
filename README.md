@@ -37,6 +37,8 @@ The [Assignment-2](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/m
 |------------|----------|----------------|----------------|-----------------------------------------------------------------------------|
 | ResNet-50  | 96.90%   | 0.3452         | 0.9609         | https://wandb.ai/vs74/Expand-ai-problem-2/runs/3bistr67?workspace=user-vs74 |
 
+## [Report](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Report.pdf)
+To view why a specific model/algorithm was tried for this problem, kindly refer [here](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Report.pdf)
 
 ## Contributing
 We ❤️ contributions. Feel free to send us a PR or raise an issue.
