@@ -1,7 +1,9 @@
 # Expand AI Assignment
 
 ## Problem Statement: 
-**Computer Vision Track** - Chest X Ray Classification into 3 categories namely **COVID**, **Normal**, and **Pneumonia**
+**Computer Vision Track** - Chest X Ray Classification into 3 categories namely **COVID**, **Normal**, and **Pneumonia**<br>
+
+For more details, read the problem statement available [here](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand%20AI%20Computer%20Vision%20Assignment.pdf)
 
 ## Data
 Dataset is in this Gdrive location:-> https://drive.google.com/file/d/1PVJcXmKz-QPAvPV-rRFYnjh7BsFnAeq8/view?usp=sharing
