@@ -16,7 +16,7 @@ The Colab notebooks for the [Assignment-1](https://github.com/vasudev-sharma/Exp
 ## RESULTS: 
 ### Assignment 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_1.ipynb) [![](https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg)](https://wandb.ai/vs74/Expand-ai-problem-1?workspace=user-vs74) <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 
-| Model_name      | Macro_f1_score | Accuracy    | Micro_F1_score | Model Logs                                                                  |
+| Base Model      | Macro_f1_score | Accuracy    | Micro_F1_score | Model Logs                                                                  |
 |-----------------|----------------|-------------|----------------|-----------------------------------------------------------------------------|
 | densenet121     | 0.64502938     | 0.989583373 | 0.98958333     | https://wandb.ai/vs74/Expand-ai-problem-1/runs/1f2z5217?workspace=user-vs74 |
 | efficientnet-b5 | 0.59190719     | 0.979166687 | 0.97916667     | https://wandb.ai/vs74/Expand-ai-problem-1/runs/3czw9l6w?workspace=user-vs74 |
@@ -33,7 +33,7 @@ To tackle limited labels for Chest XRay images, a semi-supervised learning appra
 
 The [Assignment-2](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand_ai_problem_2.ipynb) solution has been inspired from this https://github.com/YU1ut/MixMatch-pytorch repository. 
 
-| Base Model | Accuracy | Macro_F1_Score | Micro_F1_score | Link                                                                        |
+| Base Model | Accuracy | Macro_F1_Score | Micro_F1_score | Model Logs                                                                        |
 |------------|----------|----------------|----------------|-----------------------------------------------------------------------------|
 | ResNet-50  | 96.90%   | 0.3452         | 0.9609         | https://wandb.ai/vs74/Expand-ai-problem-2/runs/3bistr67?workspace=user-vs74 |
 
