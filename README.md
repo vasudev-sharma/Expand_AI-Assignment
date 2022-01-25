@@ -1,4 +1,4 @@
-# Semi-supervised learning (FixMatch) on Medical Imaging 
+# Semi-supervised learning ([MixMatch](https://arxiv.org/abs/2001.07685)) on Medical Imaging 
 
 ## Problem Statement: 
 Chest X Ray Classification into 3 categories namely **COVID**, **Normal**, and **Pneumonia**<br> with and without limited labels (semi-supervised approach)
