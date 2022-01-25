@@ -1,7 +1,7 @@
-# Expand AI Assignment
+# Semi-supervised learning (FixMatch) on Medical Imaging 
 
 ## Problem Statement: 
-**Computer Vision Track** - Chest X Ray Classification into 3 categories namely **COVID**, **Normal**, and **Pneumonia**<br>
+Chest X Ray Classification into 3 categories namely **COVID**, **Normal**, and **Pneumonia**<br> with and without limited labels (semi-supervised approach)
 
 For more details, read the problem statement available [here](https://github.com/vasudev-sharma/Expand_AI-Assignment/blob/master/Expand%20AI%20Computer%20Vision%20Assignment.pdf)
 
